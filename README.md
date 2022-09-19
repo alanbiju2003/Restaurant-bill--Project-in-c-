@@ -29,6 +29,7 @@ if any errrors or any updation pls alert me.
 thank you
 
 PREVIEW OF MY PROJECT 
+
 ![Capture](https://user-images.githubusercontent.com/91976876/190955341-c7e36ef5-47d8-44fd-aa7d-215521deeaaa.PNG)
 ![Capture](https://user-images.githubusercontent.com/91976876/190955633-157ca741-1f1f-4bfe-9e43-07df66c42574.PNG)
 
