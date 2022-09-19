@@ -2,8 +2,10 @@
 pls follow what I have stated in my source code and readme file, thank you.
 
 
-welcome to my source code of my restaurant bill project
-so i am basically a bca student learing more and deep about oops and c++
+welcome to my source code of my restaurant bill project.
+
+so i am basically a bca student learing more and deep about oops and c++.
+
 so i am learning and working more on this project to complete it 
 so there is a request that pls do the following otherwise the running the code will give an error
 So lets Run the code
